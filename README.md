@@ -1,6 +1,8 @@
 ## Objective: Create a contact form for users to reach out.
+<img width="1920" height="1032" alt="Screenshot 2025-10-03 001700" src="https://github.com/user-attachments/assets/8321d699-60c0-4606-99fb-ca37e5839f77" />
 
-**Instructions:**
+**Instructi![Uploading Screenshot 2025-10-03 001700.png…]()
+ons:**
 
    - Create an HTML file named contact.html.
    - Add a <form> element with the following fields:
